@@ -5,10 +5,12 @@
   Welcome to my profile!
 <!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> -->
 </h3>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Android%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#6b57ff&vCenter=true&size=25"></a>
-</p> 
-
+</p>  -->
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3750&pause=1000&center=true&vCenter=true&random=false&width=435&lines=I+Can't+Do+It+;NO!+NO+;I+Can+learn+to+Do+It+" alt="Typing SVG" /></a>
+</p>
 
 ### Connect with Me :
 
